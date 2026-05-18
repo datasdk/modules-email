@@ -1,10 +1,14 @@
 {
-    "name": "nwidart/email",
+    "name": "datasdk/email-module",
+    "type": "laravel-module",
+    "license": "proprietary",
+
+
     "description": "Email module for Laravel 12",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Kasper L. Kristiansen",
+            "email": "info@datas.dk"
         }
     ],
     "extra": {
